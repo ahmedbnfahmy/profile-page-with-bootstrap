@@ -1,0 +1,27 @@
+.navPar {
+  margin-bottom: 20% !important;
+}
+
+.headPart {
+  margin-top: 10%;
+}
+
+#headP {
+  background-color: rgb(65, 65, 63);
+  color: rgb(255, 252, 252);
+}
+#headP h5 {
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 20vw;
+}
+
+.abotMe h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(75, 72, 72);
+}
+
+.skillsList {
+  color: rgb(255, 1, 1);
+}/*# sourceMappingURL=style.css.map */
